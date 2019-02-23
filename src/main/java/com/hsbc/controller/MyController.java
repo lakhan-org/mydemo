@@ -13,4 +13,8 @@ public String welcome()
 {
 	return "index";
 	}
+
+public String register() {
+	return "index";
+}
 }
